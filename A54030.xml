@@ -1,0 +1,336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem on the fall of the southside of S. Paul's Cathedrall to which is added a satyre against the fanatick boutefeus of these times, and a memoriall offer'd up at the tomb of the incomparable Mr. John Cleaveland : never before exactly printed.</title>
+            <author>T. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54030</idno>
+            <idno type="STC">Wing P116</idno>
+            <idno type="STC">ESTC R33</idno>
+            <idno type="EEBO-CITATION">13165605</idno>
+            <idno type="OCLC">ocm 13165605</idno>
+            <idno type="VID">98233</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54030)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98233)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 431:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem on the fall of the southside of S. Paul's Cathedrall to which is added a satyre against the fanatick boutefeus of these times, and a memoriall offer'd up at the tomb of the incomparable Mr. John Cleaveland : never before exactly printed.</title>
+                  <author>T. P.</author>
+               </titleStmt>
+               <extent>[2], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Roger Vaughan ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: T.P.</note>
+                  <note>"Licensed and published according to order"</note>
+                  <note>Imperfect: Satyre lacking on film.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cleveland, John, 1613-1658.</term>
+               <term>St. Paul's Cathedral (London, England) --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98233:1"/>
+            <pb facs="tcp:98233:1" rendition="simple:additions"/>
+            <p>A POEM On the Fall of the Southſide of S. Paul's Cathedrall.</p>
+            <p>To which is added, A SATYRE Againſt the Fanatick BOUTEFEUS OF THESE TIMES.</p>
+            <p>And a Memoriall Offer'd up at the Tomb of the Incomparable Mr. <hi>JOHN CLEAVELAND.</hi>
+            </p>
+            <p>Never before exactly Printed.</p>
+            <p>
+               <hi>Licenſed and Publiſhed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold by <hi>Roger Vaughan</hi> in S. <hi>Martins le grand.</hi> 1662.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:98233:2" rendition="simple:additions"/>
+            <pb facs="tcp:98233:2" rendition="simple:additions"/>
+            <head>TO HIS WORTHY FRIEND, <hi>EDWARD DARELL</hi> of <hi>Calehill</hi> in the County of <hi>Kent,</hi> 
+               <abbr>Eſq</abbr>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe Poems written ſome years ſince, like ſome Rivers and ſtreams, which are transfus'd, and convey'd through ſeverall Channells and Aquaducts, by the Injuries of erroneous Tranſcrip<g ref="char:EOLhyphen"/>tions, Raſure, miſ-interpretation and the ſurreptitious Inadvertency of the Preſs have con<g ref="char:EOLhyphen"/>tracted much Dregs and Sediment. To reſtore the firſt to their native Integritie, and the Preſſe to its Genu<g ref="char:EOLhyphen"/>ine Puritie, I have made them Publick and offerd them up to your Name, whoſe Protection will I hope, like an Vmbrella or Skreen, reſcue them from the Heat of Cenſure: For (Sir) I know you have both Art and Candor, which are ſo equally complicated and twiſted together, that with the firſt you may winnow and judge, and with the laſt afford a benign and flexible Patronage to him who is</p>
+            <closer>
+               <signed>
+                  <hi>Sir, Your moſt affectionate Servant</hi> T. P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:98233:3"/>
+            <pb n="1" facs="tcp:98233:3" rendition="simple:additions"/>
+            <head>On the Fall of St. <hi>PAUL's</hi> Cathedrall.</head>
+            <l>
+               <hi>HOmer</hi>'s vaſt Illiads found ſo ſmall a Cell,</l>
+            <l>They were recluſe to th' Cloiſter of a Shell.</l>
+            <l>Their Fate attends this Ruine; <hi>Pauls</hi> muſt be</l>
+            <l>Unto it ſelf both URN and ELEGIE.</l>
+            <l>But muſt the Marble from thy Carkaſs rent,</l>
+            <l>Thy Glory once, now turn thy Monument?</l>
+            <l>Can there no Sheet, or Sere-cloath be allow'd,</l>
+            <l>But thy own Lead to be thy Fun'rall Shrowd?</l>
+            <l>And ſince by publick Vote this was thy doom,</l>
+            <l>Thou and Religion were to have one Tomb,</l>
+            <l>And wrap'd up in one common Ruine, lie</l>
+            <l>Buried ith' Grave of a wild Anarchy.</l>
+            <l>Muſt thou thy ſelf, thy crumbled ſelf interr,</l>
+            <l>And to thy ſelf be thy own Sepulchre?</l>
+            <l>Nay, muſt thy Ruines too, inſtead of Verſe,</l>
+            <l>Hang like dull Penons on thy ſcatter'd Hearſe?</l>
+            <l>Sure when the Eaſtern Monarchs ſhook a way</l>
+            <l>The narrow Circumſcription of their Clay,</l>
+            <l>'Twas thought contracted Mankind did expire,</l>
+            <l>And mix its Aſhes with their Funeral Fire:</l>
+            <l>Such <hi>Hecatombs</hi> of dying Tribes became</l>
+            <l>Unto their Urns both <hi>Hecatomb</hi> and Flame;</l>
+            <l>So now th' unhallow'd breath of ſtorms has thrown</l>
+            <l>This Pile into a rude Confuſion,</l>
+            <l>And from its aged head fierce Zeal has torn</l>
+            <l>That reverend Pomp which there ſo long was worn,</l>
+            <l>That now its face appears like wither'd Care,</l>
+            <l>Or wilder than the looks of Feavers are.</l>
+            <l>All other Churches, which like leſſer Rayes</l>
+            <l>That darted are from the Suns nobler blaze,</l>
+            <l>Did into Order and fair Figure fall,</l>
+            <l>As Tranſcripts drawn by this Originall,</l>
+            <l>Leſt this ſad Heap its Funeral Rites ſhould lack,</l>
+            <l>Should put on Ruines too like ſolemn black;</l>
+            <l>But if theſe will not, ſure the duſt of thoſe</l>
+            <l>That ſlumber in the ſilence and repoſe</l>
+            <l>Of their dark Urns, will like an Earthquake ſwell,</l>
+            <l>And break the gloomy Cloiſters of each Cell,</l>
+            <l>That treaſures up their drowſie clay, and make</l>
+            <l>All the Convulſed limbs of <hi>London</hi> ſhake</l>
+            <pb n="2" facs="tcp:98233:4"/>
+            <l>So long untill they drop one Heap, and be</l>
+            <l>At once its Mourner, Tomb, and Elegie.</l>
+         </div>
+         <div type="poem">
+            <head>An Invective againſt the Fanatick <hi>Boutefeus</hi> of theſe times. Writen <hi>1648.</hi> Occationed upon the Armies interrupting the Treatie in the <hi>Iſle</hi> of <hi>Wight.</hi>
+            </head>
+            <l>SHould all thoſe various Gates whoſe Titles are</l>
+            <l>Enroll'd upon the Pilots Regiſter,</l>
+            <l>Breake from their drouſy Dens where they have laine</l>
+            <l>Bound up in Slumbers, and invade the maine,</l>
+            <l>They could not raiſe a ſtorme, like that which they</l>
+            <l>Raiſe in the Common-Wealth, who would betray</l>
+            <l>Our Peace to Civill war, in which the State,</l>
+            <l>Muſt Bleed it ſelfe to Death, and have the Fate</l>
+            <l>After its ſtock of Life is ſpent, to lie</l>
+            <l>Entomb'd ith' Rubbiſh of an Anarchie;</l>
+            <l>Should Ravens, Bats, and the ſhrill Owle conſpire</l>
+            <l>To twiſt their Notes into one Gen'rall Quire</l>
+            <l>And chuſe the Mandrake for their Chaunter, they</l>
+            <l>Could not thrill forth ſuch an ill boding Lay,</l>
+            <l>Or ſtrains ſo Jarring as do thoſe whoſe throats</l>
+            <l>Warble the Clamourous and untuneful Notes</l>
+            <l>Of Blood and Death, ſome Whirlewind ſure has tane</l>
+            <l>Its Lodging up in the Fanatick Braine</l>
+            <l>Of theſe bold Sons of Tumult, I dare ſay</l>
+            <l>They moulded were of ſome diſtemper'd <hi>Clay</hi>
+            </l>
+            <l>Which from its centre was by Earthquakes torn,</l>
+            <l>A Tempeſt ſhooke the world when they were born</l>
+            <l>Sure from its Sphere th' Element of <hi>Fire</hi>
+            </l>
+            <l>Is drop'd, and does their Boſoms now inſpire,</l>
+            <l>The Flame lock'd up in bold <hi>Ravillack</hi>'s Urn,</l>
+            <l>Is leap'd from thence and in their Hearts does burn.</l>
+            <l>Night open thy black <hi>Womb,</hi> and let out all</l>
+            <l>Thy dreadfull Furies, yet thoſe Furies ſhall</l>
+            <l>Not chill my Heart with any Fear, ſince <hi>Day</hi>
+            </l>
+            <l>Hath Furies ſhewn, blacker by farre than they;</l>
+            <l>Let <hi>Faux</hi> now ſleep untill the <hi>Day</hi> of Doome</l>
+            <l>Open his Eyes forgotten in his Tombe,</l>
+            <l>Let none Revile his Duſt, his Name ſhall bee</l>
+            <l>Extirpated from every Hiſtorie,</l>
+            <l>To yeild a Room to others; for 'tis fit</l>
+            <l>Their Names in place of his ſhould now be writ</l>
+            <l>Who think that no Religion can be good</l>
+            <l>Leſſe it be writ in Characters of Blood,</l>
+            <pb n="3" facs="tcp:98233:4"/>
+            <l>And leſt that Blood ſhould ſeeme too cheap they'l drain,</l>
+            <l>T'improve its Rate, the rich <hi>Baſilick</hi> Vein;</l>
+            <l>No marvell if the Rubrick then muſt be</l>
+            <l>Blotted from out the ſacred Liturgie,</l>
+            <l>And thoſe red Letters now no more be known;</l>
+            <l>They'le have no other Rubrick but their own.</l>
+            <l>But ſhall they thus impetuouſly roul on,</l>
+            <l>And meet not any Malediction?</l>
+            <l>Yes ſure; May ſleep, that mild and gentle Balm</l>
+            <l>Which all unkind Diſtempers does becalm,</l>
+            <l>Be unto them a Torture. May their Dreams</l>
+            <l>Be all of Murders, Rapes, and ſuch like Theams,</l>
+            <l>And when they'r ſpent, may Wolves approach, and howl</l>
+            <l>To break their ſlumbers; May the Bat and Owle</l>
+            <l>Before their Gates, to uſher in the Days</l>
+            <l>Unwelcome Light, ſcreetch out their direfull Lays;</l>
+            <l>May ſudden Flames their Houſes melt away,</l>
+            <l>And Feavers burne their Houſes too of Clay</l>
+            <l>'Mongſt their diſorder'd Humours may there be</l>
+            <l>A Deadly Feud and fatall Mutinie;</l>
+            <l>May all their Faculties and Senſes be</l>
+            <l>Aſtoniſh'd by ſome drouſie Lethargie,</l>
+            <l>That there may be allow'd them only ſenſe</l>
+            <l>Enough to feele the Pangs of Conſcience</l>
+            <l>Griping their Souls, that they who thought it Sin</l>
+            <l>T' have Peace without, may have no Peace within.</l>
+         </div>
+         <div type="poem">
+            <head>On Mr. <hi>John Cleaveland</hi>'s Poems.</head>
+            <l>BEhold how here both Dove and Serpent twiſt</l>
+            <l>The Poet does entwine the Saryriſt;</l>
+            <l>Theſe Pages he one Common Bed does make,</l>
+            <l>Where do reſide at once both Dove and Snake;</l>
+            <l>Yet though amidſt theſe Leaves he ſeem to ſtick,</l>
+            <l>As on their ſtem, the Flowers of Rhetorick</l>
+            <l>No Venome does debauch, or ſtain theſe Flowers;</l>
+            <l>No Serpent lurks amongſt theſe hallow'd Bowers:</l>
+            <l>Although his Serpent hiſſe, it does not kill,</l>
+            <l>It may ſome ſalt, no Pois'nous ſteam diſtill;</l>
+            <l>It bliſters not the Fame, nor does it Caſt</l>
+            <l>Such Vapours forth as mens faire Honors blaſt;</l>
+            <l>You may his Snake, with the ſame Freedom claſp</l>
+            <l>As you theſe Leaves, or their rich Flow'rs do graſp:</l>
+            <l>Survey his Rebell Scot, and there you'l ſee</l>
+            <l>The Pourtraict in each Line of Loyaltie,</l>
+            <pb n="4" facs="tcp:98233:5"/>
+            <l>Who though his Verſe does wound, and Pen does dart</l>
+            <l>Such Arrows forth, the Nation feels the Smart,</l>
+            <l>Yet done 'tis with ſuch Fineneſſe, they riſent</l>
+            <l>Their wounds both with Regret and Blandiſhment,</l>
+            <l>Although his Verſe pretends the Kings Diſguiſe</l>
+            <l>The ſenſe lies Naked yet to vulgar Eyes,</l>
+            <l>No Vaile does muffle up the Phraſe, the Text</l>
+            <l>Is not with ſullen Miſts or Clouds perplext,</l>
+            <l>Here<note n="*" place="margin">
+                  <hi>His</hi> Ru<g ref="char:EOLhyphen"/>pertiſmus.</note> 
+               <hi>Rupert</hi> Cloiſter'd up in Lightning fights</l>
+            <l>With the ſame Heat and Flame with which he writes,</l>
+            <l>As if that Courage which in him was ſeen</l>
+            <l>Had but the Tranſcript of this Poem been,</l>
+            <l>Though to <hi>Kings</hi> Learned Duſt ſtrict Fate allow'd</l>
+            <l>No Tomb nor Trophie, but a watry Shroud;</l>
+            <l>Yet here his Urne is fixt, which ſhall outvie</l>
+            <l>Vaine <hi>Cleopatra</hi>'s marble Pageantrie,</l>
+            <l>Where he the Fate of drowning twice ſhall ſhun,</l>
+            <l>Firſt in the Waves, then in Oblivion,</l>
+            <l>Here <hi>Cupid</hi> may retrive a freſh ſupply</l>
+            <l>To ſtock his Quiver from his Miſtris Eye,</l>
+            <l>Who from that Orb ſuch pointed Glances darts</l>
+            <l>She makes an <hi>Holocauſt</hi> of humane Hearts,</l>
+            <l>So that we juſtly may the bleeding Pile</l>
+            <l>An <hi>Hecatomb</hi> paid to Loves Altars, ſtile;</l>
+            <l>His Apparition proves ſo ſoft a Theme,</l>
+            <l>We wiſh our ſelves engag'd in ſuch a Dream;</l>
+            <l>When in the<note n="*" place="margin">
+                  <hi>S.</hi> Johns <hi>at</hi> Cambridge.</note> Baptiſts Houſe to th' King he ſpoke</l>
+            <l>With thoſe calme Aires which from that Muſick broke</l>
+            <l>Which tun'd his Accents (like <hi>Amphion</hi>) He</l>
+            <l>Made the ſtones dance into new Simmetrie;</l>
+            <l>
+               <hi>Land</hi> in theſe ſheets enſhrin'd a Cere-Cloath wears</l>
+            <l>Beyond the Eaſterne Balme or Mourners Tears,</l>
+            <l>The liquid Salt which melted from his Pen,</l>
+            <l>Seem'd t' embalm his bloudie ſhroud agen;</l>
+            <l>And though that <hi>Colcheſter</hi> may ſeem to be</l>
+            <l>To <hi>Liſte</hi> and <hi>Lucas,</hi> Urne and Elegie;</l>
+            <l>Poſteritie will find a nobler Hearſe</l>
+            <l>Adorns their Duſt, built up in <hi>Cleaveland</hi>'s Verſe,</l>
+            <l>Thus like Fames hollow Trump, his Verſe does ſpread</l>
+            <l>The Records of the living and the Dead,</l>
+            <l>So that ſucceeding Times, this Book ſhall ſtile</l>
+            <l>The Publick Repertorie of this Iſle.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98233:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
